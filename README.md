@@ -1,3 +1,3 @@
 # covid-19-evolution
 
-Python script that works with an API from *desease.sh* that generates a plotly graph to show the evolution of the pandemic in several european countries.    
+A Python script that uses an API from desease.sh to generate a plotly graph showing the evolution of the pandemic in several European countries.    
